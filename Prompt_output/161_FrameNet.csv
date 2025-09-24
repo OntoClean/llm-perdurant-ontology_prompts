@@ -1,0 +1,163 @@
+EventType,Generic_Definition
+GiveUp,"An event where an Agent relinquishes control or responsibility over a Theme, leaving it without protection, possession, or supervision."
+Achieve,An event where an Agent successfully achieves a Goal after a period of effort or work toward it.
+GetReady,An event or condition where a Protagonist has completed all necessary preparations and is in a state of readiness to initiate a specific Activity.
+Adducing,"An event where a Speaker presents or refers to an entity or example to support a claim, argument, or point."
+Choosing,"An event where an Agent or Cognizer selects a particular option, value, or course of action from a set of available possibilities, typically involving intentional decision-making."
+Agree or refuse to act,An  event where an individual responds to a proposed action by either consenting to or rejecting participation in that action.
+Aiming,An event where an Agent intentionally directs or adjusts an Instrument toward a specific Target location to prepare for interaction or action.
+Arranging,An event where an Agent organizes elements into a structured configuration or prepares for an Event by completing necessary planning tasks.
+Arrest,"An event where an Authority or Agent restrains a Suspect or Prisoner by taking them into custody, detaining them, or holding them confined as a consequence of suspicion, accusation, or conviction of wrongdoing."
+Assistance,"An event where a Helper intentionally supports or enables a Benefited Party in achieving their Goal or overcoming an obstacle, either directly or by providing necessary aid."
+Preventing or letting,"An agent or condition influences whether an undesirable event or situation occurs, either by actively preventing it or by allowing it to happen."
+Bearing arms,"An event or state where a Protagonist possesses or is equipped with a Weapon, with the extent of their armament potentially being specified."
+Becoming,"An event where an Entity acquires a new quality, characteristic, or category membership, resulting in a change of its state or classification."
+Becoming a member,An event where an individual or entity enters into membership within a socially-defined Group.
+Know,"A cognizer perceives or notices a phenomenon, thereby incorporating it into their understanding of the world, without necessarily reasoning from evidence."
+Being in operation,"An event or state where a Device or Object is functioning, turned on, or prepared to perform its intended role."
+Control,"An event where an Agent or Controlling Entity exerts, attempts, or maintains influence over a Dependent Entity, Situation, Variable, or themselves, either by directing its state, limiting its change, or preventing undesired outcomes."
+Breathing,"An event where an Agent moves air into or out of their body, typically as part of a natural physiological process."
+Besieging,"An event where an Assailant surrounds and isolates a Victim, typically a fortified location, with the strategic goal of forcing surrender, weakening resistance, or preparing for invasion."
+Carry goods,"An event or state where a Distributor provides, offers, or makes available a type or class of Goods for distribution, sale, or lending, typically maintaining the capacity to supply those Goods."
+Bringing,"An event where an Agent or Carrier moves a Theme along a Path toward a Goal, controlling the movement during the process."
+Building,An event where an Agent assembles or constructs a new unified Entity by joining together multiple Components.
+Cause change of position on a scale,"An event where an Agent or a Cause alters the position of an Item along a measurable scale, changing it from one value to another."
+Cause change of strength,"An event where an Agent causes a Patient to become stronger, more secure, or more resilient than before."
+Employment,An event or state where an Employee holds a Position and performs work in exchange for Compensation provided by an Employer.
+Change,"An event where an Agent or Cause induces a fundamental change in an Entity — either altering its attributes, category, or physical phase."
+Expansion,"An event where an Agent or non-human Cause induces a change in the physical size or dimensions of an Item, either overall or along specific directions."
+Bodily harm,"An event where a bodily injury occurs to a person, either caused intentionally or accidentally, affecting the whole person or a specific body part."
+Cause to amalgamate,"An event where an Agent causes multiple Parts to be combined into a single Whole, such that the original parts lose their distinct separateness in the resulting entity."
+Cause to be included,"An event where an Agent or Cause brings a New_member into an existing Group, making it part of that collective."
+Change sentiment,An event where an Agent intentionally causes an Experiencer to feel or undergo a specific internal mental or emotional state.
+Cause to make progress,An event where an Agent acts to advance a Project or Entity toward a more developed or improved state.
+Change of leadership,"An event where a Selector initiates the appointment of a New Leader or the removal of an Old Leader, resulting in a change in who holds a leadership position."
+Change tool,"An event where an Agent replaces one Tool, resource, or implement (the Old_tool) with a different one (the New_tool) for accomplishing a task or function."
+Communication,"An event where one or more parties convey, exchange, or respond to information, emotions, intentions, or requests, typically through language or symbolic means, either interactively or unidirectionally."
+Presence,"An event or state in which an Entity is understood to exist, either absolutely or within specific temporal, spatial, or situational boundaries, and may optionally be confirmed by an observer."
+Collaboration,An event where two or more entities work together jointly and cooperatively toward a shared goal or task.
+Coming to be,"An event where an Entity comes into existence, typically associated with a particular Place, Time, Cause, or originating Components."
+Coming to believe,"An event where a Cognizer forms a new belief about some Content, often based on reasoning or evidence."
+Commerce pay,An event where a Buyer transfers Money to another party as compensation for receiving Goods or Services.
+Commerce sell,An event where a Seller transfers Goods to a Buyer in exchange for Money.
+Commitment,"An event where a Speaker pledges or undertakes to perform a specific action in the future, directed toward or concerning an Addressee."
+Committing crime,"An event where a Perpetrator or Wrongdoer intentionally engages in an act that violates legal, social, or moral codes, thereby committing a crime, offense, or misdeed."
+Competition,"An event where Participants engage in a structured, rule-governed activity to achieve an advantageous outcome, often evaluated by criteria such as rank or score."
+Giving,"An event where a Benefactor, Donor, or Offerer initiates the transfer or availability of a Benefit, Theme, or Good to a Beneficiary or Recipient, resulting in a new possession or favorable situation for the Receiver, typically motivated by generosity or willingness rather than obligation."
+Confronting problem,"An event or state where an Agent or Experiencer faces a challenge, obstacle, or negative Issue that affects their ability to act or complete an Activity, typically requiring effort, adaptation, or resolution."
+Conquering,"An event where a Conqueror successfully invades and takes control over a Theme, resulting in the Theme losing its autonomy, and possibly sustaining material damage."
+Containing,An event or state where a Container physically encompasses or encloses some Contents within its boundaries.
+Attack,"An event where an Assailant intentionally initiates aggressive physical action against a Victim or Target, typically aiming to cause harm, damage, or domination, regardless of whether the Assailant survives the attack."
+Scrutiny,"An event where an Agent carefully examines or questions an Entity (such as a person, object, or situation) to uncover, verify, or detect specific information, characteristics, or issues, often with heightened attention or scrutiny."
+Create artwork,"An event where a Creator intentionally produces a physical artifact or representation, often using culturally recognized techniques or craftsmanship, to depict, symbolize, or evoke an entity, event, or idea."
+Criminal investigation,An event where an Investigator systematically examines and gathers information to determine the circumstances of a suspected criminal Incident.
+Cure,"An event where a Healer successfully eliminates an Affliction from a Patient, restoring the Patient’s health, often through some form of Treatment or Medication."
+Damaging,"Damaging is an event where something causes a negative change to another thing, leaving it in a worse condition than before."
+Death,"An event where a Protagonist ceases to live, and a connected Sufferer experiences emotional loss due to that death."
+Deciding,"An event where a Cognizer evaluates options and either reaches a decision or fluctuates between possible choices regarding an entity, action, or issue."
+Defending Repel,An event where a Defender actively resists or counters an attack made by an Assailant on a Victim.
+Destroying,"An Agent or Cause acts on a Patient in such a way that the Patient is fundamentally degraded — either by ceasing to exist, being broken into non-cohesive parts, or losing the ability to perform its intended function."
+Dispersal,"An event where an Agent or Cause moves Individuals from a confined Source to a broader Goal area, resulting in their spread or scattering."
+Escaping,"An event where a living being or entity moves intentionally to avoid danger, threat, capture, or undesirable conditions, often by leaving, dodging, fleeing, or escaping from a source, pursuer, or harmful situation."
+Wearing,"An event or state where a Wearer puts on, has on, or is characterized by wearing Clothing, which covers or adorns parts of their body."
+Arriving,"An agent or theme moves toward and reaches a goal location, often to fulfill a purpose such as a visit, with or without prior arrangement."
+Earnings and losses,"An event or state where an Earner gains or loses value based on providing goods or services, typically reflecting the net effect of transactions, including potential costs."
+Education teaching,"An event where a Teacher imparts knowledge, skills, facts, or principles to a Student through instruction, aiming to enable learning or mastery over a subject or capability."
+Emergency,A critical situation requiring immediate action to prevent or respond to a harmful event.
+Emptying,"An event where an Agent or Cause removes some or all of the contents (Theme) from a Source (typically a container or area), altering the Source’s state toward being emptier."
+Action,"An event where an Agent intentionally carries out actions according to a plan, rule, or behavioral standard to achieve or maintain a desired state or outcome."
+Exchange,"An event where two parties each give something and receive something from each other, resulting in a mutual transfer of items, goods, or information."
+Expend resource,"An event where an Agent uses up a finite Resource, making it unavailable for further use."
+Research,"An agent systematically investigates a question or hypothesis by consulting evidence, making observations, or conducting experiments to discover or verify knowledge."
+Extradition,An event where Authorities transfer a Suspect from their current jurisdiction to another jurisdiction (the Crime_jurisdiction) to face legal proceedings for an alleged crime.
+Filling,"An event where an Agent or Cause moves a Theme into or onto a Goal (such as a container or area), typically to fill, cover, or affect the Goal's state through the placement of the Theme."
+Rewards and punishments,"An authority enforces a consequence on an individual as a response to their actions or beliefs, aiming to punish or regulate behavior."
+Forming relationships,An event where two entities interact in a way that establishes or modifies a social relationship between them.
+Come together,"An event where individuals or entities are brought together by an Agent (gathering up) or come together on their own (congregating) to form a group or configuration, usually based on proximity."
+Body movement,"An event where an Agent uses body movements, either communicatively or non-communicatively, to perform an action or convey meaning, typically without the use of verbal language."
+Getting,"An event where a Recipient, initially without a Theme, acquires possession of it, emphasizing the change in ownership or control over the Theme."
+Having or lacking access,"A theme either has or is denied the ability to reach or use a valuable location, resource, or service."
+Hiding objects,An event where an Agent makes an Object perceptually inaccessible to others by placing it in a location or covering it with an Obstruction.
+Hindering,"An event where a Hindrance obstructs, delays, or makes it more difficult for a Protagonist or Action to proceed or be completed, without necessarily preventing it entirely."
+Change event time,"An event where an Agent or Cause intentionally delays, reschedules, or alters the timing or duration of another Event, affecting when or how long it occurs."
+Hostile encounter,An event where two opposing sides engage in a conflict or confrontation over a disputed issue or to achieve a specific purpose.
+Imposing obligation,"A situation where a duty or responsibility is placed on a party based on a principle, requiring them to act or respond in a particular way."
+Ingestion,"An entity actively introduces a substance into their body, typically through physical intake mechanisms."
+Institutionalization,"An authority places an individual into a medical facility for treatment or care, based on a judgment about their condition or well-being."
+Creating,"An event where a Creator, through intentional action or causal processes, brings a new entity — physical, intellectual, or conceptual — into existence, possibly by assembling components or generating original ideas."
+Judgment communication,"An event where a Communicator expresses an evaluative judgment—positive or negative—about an entity (Evaluee or Addressee) to another party, making the assessment explicitly known."
+Justifying,"An agent explains or defends an action, omission, or situation to show that it was acceptable despite appearing to violate a norm or obligation."
+Kidnapping,A perpetrator forcibly seizes and detains a victim against their will.
+Killing, A Killer or Cause causes the death of the Victim.
+Labeling,An agent assigns a descriptive term to an entity in order to categorize it and express a judgment.
+Legal rulings,An event where an Authority formally issues a decision or Finding to resolve a question or dispute within a Case
+Lighting,An event where an Emitter produces and projects a Beam of light from a Source along a Path toward a Goal.
+Limiting,"An agent, cause, or condition restricts the range, quantity, or extent of something compared to what would typically be expected."
+Hold ,"An event where an Agent physically manipulates an Entity without fundamentally altering or relocating it, or mentally influences a Victim into performing an action they would otherwise resist."
+Manufacturing,"An event where a Producer creates a Product from Resources, typically as part of a commercial or industrial process."
+Military operation,"An organized set of large-scale activities carried out by a Military belonging to a Possessor (e.g., nation, institution) within a geographic Area, aimed at achieving military or combined military and non-military objectives."
+Motion directional,"An event where a Theme (an entity) changes its location relative to a landmark or moves along a path or direction, either intentionally (through self-movement) or due to external forces."
+Motion,"An agent, cause, or entity initiates or undergoes movement from a source toward a goal along a path, optionally involving different manners, periodicities, or material forms."
+Name conferral,"An event where a Speaker assigns or confers a name onto an Entity, establishing or altering its designated label within a social or linguistic context."
+Openness,An event or state where a Useful_location is either made accessible or remains inaccessible to a Theme depending on the presence or absence of a Barrier.
+Testing,"An authority or evaluator assesses the performance, functionality, or knowledge of a subject (a product or a person) under specific conditions to determine its quality, capability, or suitability."
+Participation,"An event in which multiple participants are involved, either symmetrically or asymmetrically, engaging together in a shared or individual activity or situation."
+Patrolling,An event where an individual or group moves through or observes an area to monitor and ensure that it remains in a desired or safe state.
+Perception active,An event where a Perceiver intentionally directs their attention toward an entity or phenomenon in order to have a perceptual experience.
+Placing,"An agent deliberately positions a theme at a specified goal location, controlling the theme’s placement and emphasizing its final location."
+Receiving ,"An event or state where a Theme is transferred from a Donor to a Recipient, resulting in the Recipient coming into possession of the Theme."
+Practice,An event where an Agent repeatedly performs an Action to improve future execution of that Action.
+Preserving,"An event where an Agent acts to maintain the condition or integrity of a Patient, preventing its natural decay, deterioration, or spoilage."
+Imprisonment,"Imprisoning is an event where an authority or agent restricts an individual's freedom by placing them in a confined space, typically as a result of a legal or punitive decision, thereby preventing their voluntary movement or access to the outside world ."
+Process end,"An event where a Process or Activity reaches its conclusion, either by natural completion, deliberate cessation by an Agent, or external causation, resulting in the process no longer continuing."
+Process start,"An event where either an Event or an ongoing Activity begins at a specific Time and Place, possibly involving an intentional Agent for activities."
+Publishing,"An event where a Publisher makes a Work created by an Author accessible to a public Audience through some medium for broader consumption or use.
+"
+Quarreling,An event where two or more parties engage in expressing conflicting or incompatible opinions or beliefs about an issue.
+Ratification,"An event where a Ratifier formally approves a Proposal, making it officially valid or binding within their authority or constituency."
+Protest,An agent presents support for a content or claim in order to persuade an addressee about a belief or course of action.
+Recording,An event where an Agent permanently captures information about a Phenomenon or an Entity’s Attribute for future reference.
+Reforming a system,"An Agent or Cause initiates changes to the structure or organization of a complex Entity (such as a system or institution) in order to improve its functioning under changed circumstances, usually through gradual and partial modifications rather than complete replacement."
+Recovering,"An event where an Agent or a Cause restores an Entity to a previous state of greater vitality, strength, or effectiveness."
+Releasing,"An event where an Authority or Agent causes a confined or restricted Entity to regain freedom of movement, either lawfully or against the will of prior captors."
+Removing,"An event where an Agent causes an Entity (Theme) to move away from its original Location (Source), resulting in their separation."
+Renting,An event where a Lessee obtains temporary usage rights to Goods owned by a Lessor in exchange for payment.
+Reporting,An event where an Informer communicates information about a Wrongdoer's improper or illegal behavior to the relevant Authorities.
+Expressing publicly ,A Speaker communicates a desire or need for an Addressee to provide something or to perform a certain action.
+Rescuing,"An event where an Agent intervenes to save a Patient or an Asset from a Harmful Situation, preventing or mitigating negative outcomes."
+Resolve problem,"A problem is solved, either through an agent’s deliberate action or by some non-agentive cause."
+Response,An event where an Agent or Responding Entity performs an action as a consequence of a preceding Trigger event or Proposal.
+Reveal secret,"An event where a Speaker discloses previously hidden or confidential Information to an Addressee, making it accessible or known."
+Revenge,"An agent deliberately inflicts punishment on an offender in response to a perceived past wrongdoing, based on personal or collective judgment rather than formal law.
+"
+Rite,"An event or activity where individuals perform ritualistic actions following religious, spiritual, or traditional beliefs."
+Robbery ,"An event where a Perpetrator wrongs a Victim by forcefully or threateningly taking Goods from them, emphasizing harm to the Victim and the removal of Goods from a Source location."
+Scouring,An event where a Searcher thoroughly examines a Ground in an effort to locate a potentially existing Sought_entity.
+Self motion,"An event where a living being or entity initiates and controls its own movement along a path, toward a goal, or within an area, using its own means of locomotion."
+Sending,"An agent causes a theme to move from a source to a goal, transferring possession or accessibility to a recipient."
+Commerce buy,"An event where a Buyer or Shopper seeks or obtains Goods through a commercial transaction, typically involving the exchange of Money with a Seller."
+Sign agreement,An event where a Signatory formally accepts and commits to the terms of an Agreement by signing a document.
+Social event,"An event where individuals or groups gather to engage in social interaction, either as separate participants or as a collective, often centered around a specific function, celebration, or shared purpose."
+Connect,"An event or state where a Figure entity is in physical or metaphorical contact with a Ground entity, with or without support, and possibly involving attachment through a connector or maintained positioning."
+Expressing publicly ,"An event where a Speaker or Communicator addresses an Audience by sharing a Topic or previously unexpressed Content, typically in a formal or public setting."
+Statement,"An event where a Speaker communicates information or asserts ownership over something, typically using language or symbolic acts directed toward an audience."
+Convincing,"An event where a Speaker attempts to influence an Addressee to adopt a belief, form an intention, or agree to a course of action, whether or not the Addressee ultimately acts on it."
+Submitting documents,"An individual provides documents to an authority for official evaluation, processing, or consideration."
+Supply,An event where a Supplier provides something (a Theme) to a Recipient to meet a specific need or serve a particular purpose.
+Supporting,"An event where a Supporter provides material or abstract aid to reinforce, uphold, or strengthen the Supported entity."
+Surrendering,An event where an individual or entity willingly or under compulsion relinquishes themselves or a possession to an authority or recipient.
+Surrounding,"An event or state where a Figure partially or completely encompasses, covers, or encircles a Ground, either physically or metaphorically, influencing its spatial or conceptual context."
+Suspicion,An event where an Authority or individual forms a belief that a person may have participated in a criminal or wrongful incident.
+Telling ,"An event where a Speaker communicates a Message to an Addressee, possibly through a Medium, either directly or indirectly referencing the Topic."
+Temporary stay,"An event where a Guest temporarily resides at a Location that is not their permanent home, typically for a limited Duration."
+Terrorism,"An agent deliberately commits a harmful act against victims to instill fear and coerce a larger group, often for political or ideological purposes."
+Writing,"An event where an Author produces a Text, either written or spoken, consisting of meaningful linguistic content, often directed toward an Addressee."
+Theft,"A perpetrator unlawfully takes goods from a victim or source, typically without consent and often using specific means."
+Use firearm,"An event where an Agent intentionally discharges a firearm, propelling a projectile from a Source along a directed Path toward a Goal."
+Using,An event where an Agent purposefully manipulates or applies an Instrument to achieve a specific goal or accomplish a task.
+Check ,"An Inspector attains a degree of certainty in the Unconfirmed_content, generally by inspecting some evidence."
+Violence,"An act or situation where an Aggressor or Cause inflicts injury, harm, or destructive force upon a Victim or target."
+Traveling,"An event where an Agent moves to and/or experiences a location, typically to fulfill a purpose such as exploration, learning, inspection, or social engagement."
+Departing,"An event where an Agent, Traveller, or Theme moves away from a Source location, marking the beginning of departure or transition from that point."
+Vocalizations,An animate entity produces sound using its vocal system.
+Warning,A speaker communicates a message to an addressee about a potential undesirable situation that could affect them.
