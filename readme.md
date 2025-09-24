@@ -1,6 +1,5 @@
-=======================================================================
+
 README: Supplementary Materials for Meta-Property Classification via Prompting Strategies
-=======================================================================
 
 These materials support the paper titled:
 
@@ -55,6 +54,4 @@ INSTRUCTIONS FOR REPRODUCIBILITY
    - pandas
    - openai
 
-   You can install dependencies using:
-   ```bash
-   pip install -r requirements.txt
+
