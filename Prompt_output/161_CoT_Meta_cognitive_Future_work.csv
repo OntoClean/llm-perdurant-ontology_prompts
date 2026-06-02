@@ -1,0 +1,6 @@
+EventType,Generic_Definition,Cumulativity,Homeomericity,TemporalExtent,Agentivity
+Agree or refuse to act,An  event where an individual responds to a proposed action by either consenting to or rejecting participation in that action.,anti-cumulative,anti-homeomeric,durative,agentive
+Getting,"An event where a Recipient, initially without a Theme, acquires possession of it, emphasizing the change in ownership or control over the Theme.",anti-cumulative,anti-homeomeric,durative,agentive
+Name conferral,"An event where a Speaker assigns or confers a name onto an Entity, establishing or altering its designated label within a social or linguistic context.",anti-cumulative,anti-homeomeric,atomic,agentive
+Ratification,"An event where a Ratifier formally approves a Proposal, making it officially valid or binding within their authority or constituency.",anti-cumulative,anti-homeomeric,atomic,agentive
+Sign agreement,An event where a Signatory formally accepts and commits to the terms of an Agreement by signing a document.,,,,
